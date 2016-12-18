@@ -1,0 +1,32 @@
+---
+ID: 117
+post_title: Over a month between updates?
+author: yochannah
+post_date: 2008-04-27 22:06:23
+post_excerpt: ""
+layout: post
+permalink: >
+  http://catwithnoname.com/wordpress/blog/2008/04/27/over-a-month-between-updates/
+published: true
+dsq_thread_id:
+  - "239014356"
+---
+That's not the way I'd like but I'm busy! Not in any bad way, just in a busy way. My excuse is that whenever I was on the computer I needed to be doing work. I've finished TT381, the course on Open Source web development and PHP. Open Source is Da Best, cos it's free like beer and free like speech. See Wikipedia's <a href="http://en.wikipedia.org/wiki/Libre#Libre"> Gratis vs Libre </a>. I was pretty sure I liked Open Source Software before I did this course but having learned more about it, I like it even more. Darren dislikes the OSS strategy, because he doesn't think it's lucrative (there are many ways it is but soon I'll be repeating my whole report that I just handed in!! *L*). At the same time, I've heard him complain about software prices many times *L*. 
+
+PHP in particular is just soooooo much fun to use. Arrays are so easy, and loops are so easy, and conditionals, and it meshes so smoothly with MySQL. I'm not sure if it's easy to learn or if it's just I know enough scripting languages now that my brain has the basic stuff ingrained in it since scripting languages are alllll the same, just a curly bracket here and a dollar sign there that makes up the difference between one and the other. 
+
+I blogged loads in my head but it never made it to my fingers and the keyboard unfortunately. When I wasn't on my PC I was working, walking, reading, doing stuff in life that you kinda have to do like taking cats to the vet or cleaning the house, or going to lessons to get beaten up or drive about on roads.     Training is great but exhausting. As I'd planned, my bikes have been living in the shed for some weeks (poor wee things). I've gone well past the blister stage, or if I ever do get them I don't actually notice them anymore. I've killed my nerves in the appropriate area, or my footskin is so thick they're practically hooves, or something. My well worn in shoes died a couple of weeks ago so I had to go gear shopping. (woohoo!) I got some new shoes which have far stiffer soles than I'm used to, gaiters I need to try out, a new platypus water reservoir because the two reservoirs we have are getting old and broken and possibly a wee bit moldy, walking trousers that I wanna wear ALL THE TIME just cos they're so good, loads of wicking sock liners (thin  socks that take sweat away from the body) loads of thick padded hiking socks, three or four wicking walking tshirts, loads of unused blister plasters living in my bag, and probably more stuff I can't think of. 
+
+My calves have been a major issue during training - far more than my feet or ankles or blisters or other sore bits have been. They ache all the time, even if I rest (ish) for several days. I was off work last tues/wed/thurs to finish off the aforementioned project and I didn't do any walking, only the physical activity from martial arts class on tues and thurs, which admittedly isn't exactly minimal. I used to hate the running we did and get all asthmatic and redfaced and miserable from it until I discovered that by counting laps around the mats I could distract myself and make it almost ok. 
+
+Most of the asthma was stress-induced I think. I can do similar amounts of physical activity in other settings without any issue but because I was getting worked up about it in class it was worse. It's amazing how much one's mindset really can make a difference. The only attack I ever remember having in Israel (where I was never affected by it and didn't need to take medication for it *sigh*) was when I was 13ish, babysitting, and the kids were being horrible horrible brats and wouldn't stay in their bedroom even at about 11pm. 
+
+I seem to have gone on a tangent from my calves to my asthma. I was going to say that despite what (for me) is a lot of rest they are always aching and running around the mats in class is often so bad that afterwards when I stand still they will start to shake uncontrollably. I can still go on walking for ever and ever and ever. I sorta go into auto mode at some point where it almost feels that slowing down or stopping would be harder than going on. I'm sure my calves look bigger now, but I like that. *L* what can I say, my eyes are getting drawn by some well-turned calves... Darren thinks I'm obsessed with them. I think so as well, I think...
+
+My walks have been getting progressively longer and I've seemed to have the luck to encounter loads of bad weather when I've done them. The last couple have had hail and snow and hail and more hail...  but I've not managed bad times despite all that. I might even get to feel spring and sun and things like that one day. I'll not get too hopeful. I do live in the UK after all, and last summer it rained so hard we got floods rather than doing what summer should do and being hot. I miss hot. I really really do. 
+
+We had some amazing hail today. It was the biggest I'd ever seen and I had been outside a couple of minutes before it started. I as really glad I got in before it did - I would bet the stones were bigger than 1cm in diameter, and I'm positive they would have bruised me if I'd been hit. I do bruise easily, admittedly (or it might just be that I like doing rough stuff more than other people, no naughtiness intended there). 
+
+I have about three more days off before my last Web Application Development course starts. The big suckage is that there's no coding in it. I love coding. Coding is fun. Such is life I guess. I think that after this course I'll go for some Java courses, cos it's so useful. And it'll mean more coding *g*
+
+Oh ya know what's nifty?!?! Darren's doing an OU course too!!! he's been watching loads of <a href="http://www.channel4.com/history/microsites/T/timeteam/">Time team</a> and he's gotten so fired up he's registered for an archaeology course. We'll study at the same time and stuff! and I'll have to proofread for him! Am I Hermione or something?

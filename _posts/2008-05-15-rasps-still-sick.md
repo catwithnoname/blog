@@ -1,0 +1,16 @@
+---
+ID: 121
+post_title: '*rasps* still sick'
+author: yochannah
+post_date: 2008-05-15 16:26:07
+post_excerpt: ""
+layout: post
+permalink: >
+  http://catwithnoname.com/wordpress/blog/2008/05/15/rasps-still-sick/
+published: true
+dsq_thread_id:
+  - "663807117"
+---
+Or sick again, maybe? I was back at work for 2 days and the second day I began to lose my voice until I'd talked it so hoarse I had to stop doing phone stuff cos customers couldn't understand me. Besides, who wants to listen to a sick person on the phone? It doesn't sound nice at all... I did some "fast-track" style calls for the rest of the afternoon that didn't involve calling people. I thought I'd be alright the next day and just come in and do more silent person work, but my voice went so bad that prettymuch all I could do was whisper, and my throat started to hurt so badly I was up at about 3 am, unable to sleep. So, no work Tuesday. Wednesday I still had little sign of a voice, although by the afternoon it would crack every now and then and a bit of loud voice would sneak in amongst the whisper. It was still a raspy hoarse voice, but it was a LOT more than I'd had. I went to the doctor again, who said antibiotics weren't likely to help but it might be something to do with the pollen levels (I hope not because if it is, I'm so fucked. I don't know anyone who gets hayfever as bad as I do, and I REALLY don't want to lose my voice on a yearly basis every spring.) His instructions were to lubricate my throat and try and keep in as un-inflamed as possible. He suggested hot water and honey. I can't quite stomach the thought of honeywater on its own, so I've been enjoying lots of greentea+lemongrass with oodles of honey squished in. I need to buy some more tonight - I'm feeling brave enough to go to martial arts class tonight, but I will have to tell Sensei Rob I'm not even going to try to <a href="http://en.wikipedia.org/wiki/Kiai">kiai</a> lest it ruin my poor wee voice. I've got a note from the doctor that I can't read, but he told me I'm to stay off work for the rest of the week, so I'll assume it says something along those lines. I'm glad that's what he said - my voice is back to understandable but hoarse levels today - and I don't want to go straight back to work, talk, irritate my throat some more, and lose my voice again.
+
+My legs, thankfully, are working fine, so I'll be going leaving my practice walk tomorrow evening. We'll be walking part of the route that we'll be walking on The Day, and we'll stay at a hotel the night before and the night after. I need to pack tomorrow. I'm sooooooo excited *L*. It's really really past time for me to start fundraising, so I'm going to post the link here now: <a href="http://www.caledonianchallenge.com/sponsorship/online.php?year=2008">RBS Caledonian Challenge</a>. My team is just called (in a boring way) "Fujitsu Siemens Computers" cos that's who we works for, 'n all that... All money goes to  <a href="http://www.scottishcf.org/index.cfm"> The Scottish Community Foundation</a>, who'll hopefully be putting it to good use around Scotland. We need to raise £500 each, so feel free to be generous. I won't mind if you can't, either, cos money don't grow on trees and life's just like that sometimes.

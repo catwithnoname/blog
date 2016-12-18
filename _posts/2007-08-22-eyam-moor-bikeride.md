@@ -1,0 +1,36 @@
+---
+ID: 49
+post_title: Eyam Moor bikeride
+author: yochannah
+post_date: 2007-08-22 21:57:26
+post_excerpt: ""
+layout: post
+permalink: >
+  http://catwithnoname.com/wordpress/blog/2007/08/22/eyam-moor-bikeride/
+published: true
+dsq_thread_id:
+  - "2472955917"
+---
+Sooooooooooooooooooooooooo. I'm hot'n'sweaty'happy. I bikededed from Hathersage around Eyam Moor. I started out a bit trickily cos the route is described from a car park and I arrived in Hathersage in the train, which was not at the car park. I got lost in hathersage and eventually decided to bike to the carpark and follow the route properly. I missed my turn off almost straight away though, cos I was watching for a turn on the right, in theory, but in reality I was looking at my left side. I bugger up driving lessons all the time when he says turn right and I go left... I suspect I might be an undiagnosed dyslexic sometimes (or Dyscalculia... is it Dyscalculic I want to say? I'm not sure. Dictionary.com ain't being helpful either).
+
+After a while I decided I must have missed the turn off and went back the way I came. cos I was coming from the opposite way the turn off really was on my left this time. After 2-3 minutes of biking uphill VERY steeply on this turnoff I got worried I was going to get an asthma attack. I pulled over and grabbed the sweet blue redemption from my backpack, but managed to spray some on my tongue by accident. I didn't want to take a second one cos it makes me feel bad, so I rested a lot on the way and promised I would take another if I needed to. Thankfully I didn't. Someone who was  walking made fun and said it looked like it'd be easier if I got off and pushed. I think my face must have been very very red. It was so steep I was on the bottom gear, which I don't think I've EVER used.
+
+Following the route in my book, I turned right at the appropriate time, and went up the hill which they described as "a bugger". It wasn't as bad as the previous hill, but it was long and steep too. at the end the road turned left and I continued on a gravelly road. I have a wide-tyred slick tread bike, and it could really only just cope with the track. Gravel is a bad description.... *looks for pics* ... ah screw it, there're a couple in the <a href="http://www.catwithnoname.com/photos/eyammoor22082007/">album</a>. look for the gravelly road... or bigish rocks road really.
+
+I had a rest with some tuna with lemon and pepper and a book on this road.. you can see the pic of my bike beside the road in the album. I found out just as i got up that I'd narrowly missed sitting on a dogshit. *l* that would have made the ride great. By this point I had been biking in purpleypink moors with heather and bracken everywhere. I really enjoy all the wildflowers I saw... <a href="http://www.catwithnoname.com/photos/eyammoor22082007/images/22082007140.jpg">scabious</a> are really pretty. (if not their name, which sounds like a disease). So were the thistles and the <a href="http://www.catwithnoname.com/photos/eyammoor22082007/images/22082007139.jpg">willowherbs</a>. The wildflowers seemed to consist almost entirely of pinks and purples and variations between the two.
+
+After I got off the gravelly bit it was down for a long time. I got to <a href="http://www.catwithnoname.com/photos/eyammoor22082007/images/22082007148.jpg">this fork</a>. The sign says Foolow. I interpret this to mean Fool-low, that only fools take the low route. If you go down you always have to come up so, like me, you should take the right handed route that isn't downhill. *nodnods*
+
+A bit later I saw a <a href="http://www.catwithnoname.com/photos/eyammoor22082007/images/22082007156.jpg">dogrose</a> with <a href="http://www.catwithnoname.com/photos/eyammoor22082007/images/22082007157.jpg">rosehips</a>. I tried to climb the drywall fence at this point, cos it looked like a secure spot to pee. I hate peeing when I walk cos I'm never sure if I'll get a walker showing up while I'm bared to the world, and the worst thing is trying to be sure I'll miss my trousers (argh!!!!) guys have these handy pointers to make it all easier. The wall was about as high as my head, so I used a sapling to pull myself up to the edge of the wall, stood on the top, and watched it sway VERY alarmingly. since I didn't want to break some centuries-old wall, I got off it really quick and decided to go elsewhere. Message to all wall-makers: There is something to be said for the use of mortar. Honest.
+
+I thought I was really funny for taking a pic of <a href="http://www.catwithnoname.com/photos/eyammoor22082007/images/22082007152.jpg">my own shadow</a>. It just looked good in the camera.
+
+A wee way on, there were some <a href="http://www.catwithnoname.com/photos/eyammoor22082007/images/22082007164.jpg">laaaaazy horses</a>. One of them flopped his head up to look at me momentarily then flopped back down. Way behind them, there was a whole herd of horses. I've never seen a herd before, and they looked cool. Behind the right horse there was a foal, too. I saw some cows a bit later on, and offered to pay them five dollars if they let me take photos of them, but they didn't answer so I took some without paying. Bwahahahaha. The <a href="http://www.catwithnoname.com/photos/eyammoor22082007/images/22082007178.jpg">bull</a> has the biggest balls I've ever seen on any living creature! I didn't get them in the photo though. I thought it was female at first and its balls were the udder, but then I realised it had no teats. Between the horses and cows there was a weird stretch that was like the border between the nice forest and the evil badlands in some story. See <a href="http://www.catwithnoname.com/photos/eyammoor22082007/images/22082007176.jpg">this photo</a>. On the left, beautiful green oaks and whatnot.... on the left.... dim dead pine leaves. It looked dimmer in RL than the photo conveys.
+
+I ate some blackberries when I was beside the cows. Didya know blackberries can talk? They said "Yochannnaaaaah! Yooooochaaaanah! Eat me! I'm shiney and sun-ripened and juicy!" So I did, and they were.
+
+I continued down further, and spotted an <a href="http://www.catwithnoname.com/photos/eyammoor22082007/images/22082007185.jpg">oddly patterned ladybird/bug*</a>. And then I was in Hathersage. Damn! already?! it sucked a bit *L* I wanted more, so I decided to head towards sheffield and get on whatever train station was nearest when I was tired. So I went up and up and up towards surprise view, and wondered why I thought I had to go on after all *l*. I decided I wanted to get home at a reasonable time so I went straight downhill to Grindleford, past Padley Gorge, which I walked in a previous month. I managed to get a softee on the way (and get it over EVERYTHING). After this, it was prettymuch train to sheffield, then home.
+
+I'm rereading Lynn Flwelling's <a href="http://www.amazon.co.uk/gp/product/0007113080?ie=UTF8&amp;tag=cat09-21&amp;linkCode=as2&amp;camp=1634&amp;creative=6738&amp;creativeASIN=0007113080"><img src="http://www.assoc-amazon.co.uk/e/ir?t=cat09-21&amp;l=as2&amp;o=2&amp;a=0007113080" style="border: medium none  ! important; margin: 0px ! important" border="0" height="1" width="1" />Tamir Triad</a>. 'sgood.
+
+*take your pick depending on your nationality.
