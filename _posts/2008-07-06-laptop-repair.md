@@ -1,0 +1,16 @@
+---
+ID: 129
+post_title: Laptop repair!!
+author: yochannah
+post_date: 2008-07-06 16:51:14
+post_excerpt: ""
+layout: post
+permalink: >
+  http://catwithnoname.com/wordpress/blog/2008/07/06/laptop-repair/
+published: true
+---
+I get to fiddle with a laptop today! Darren's aunt texted me the other day saying windows wouldn't start. I talked her through the basic stuff she might be able to do on her own, to no real avail, so the laptop has been given to us to investigate / repair. In the past I've has to do a system restore on this laptop (I think it had a missing system file or something?) and I'd vague suspected at the time that the hard disk might be failing, but it had definitely failed this time. The laptop is an HP - supplied one and has a system restore partition that should put everything to rights if your OS is screwed up. That wouldn't load, so I tried the backup CDs we had wisely made (at the time, Darren told me I was being silly. We've used them twice now. Well, once successfully and once less so....). The CD wouldn't load either, so I asked the BIOS to scan the integrity of the hard drive. It estimated that would take about 41 minutes, but gave up with a disc read error after about 30 seconds *lol*. So basically, her hard drive is fooked. I suspect the laptop has probably had a drop or seven - if they weren't so expensive I would strongly recommend that Darren's aunt should invest in a solid state drive that's more shock-proof. 
+
+HP's warranty had expired so there was no point pursuing them for a replacement drive. We priced up a new hard disk - a 120 gig drive was the most inexpensive option, which is amusing considering hers is a 60 gig drive. It's really, really simple to swap hard disks - I'd be happy to give a non-techy person a screwdriver and tell them to give it a try. There are three screws to unscrew, a cover to pull off the back of the laptop, and presto! There's the hard drive. It's so tiny compared to a desktop hard disk drive! I could hide it under the palm of my hand quite easily. The drive we chose was about £33 pounds including shipping, so I told Darren to tell his mum to tell his aunt (long chain here I know) it would be £35 to repair - not really charging for my time but just preferring to round the numbers off a bit. Darren made me agree to give them a quote of £45, so I'd charge a weeeeeeeee bit for my time. And then when he rang his mum she said "You have to charge for your time!" So Darren said "Ok, make it £50 then" *l*. It was amusing to watch the amount escalate even though it was still minimal. 
+
+I really, really enjoyed opening it up and looking inside. Computers just rock! I regularly think about freelance computer repair as a sideline for a bit of extra money, but everyone I know who has actually done it seems to think it's a bad idea. Too many people think that buying a computer means the seller will teach them how to use it or fix their moronic actions when they get a virus or change some weird setting. You'd not buy a car and expect the dealer to teach you how to drive, but with computers apparently that logic doesn't follow.
