@@ -15,3 +15,5 @@ I finally got around to uploading them! <br />
 <li><a href="http://www.catwithnoname.com/photos/scotland6/">Gallery 6</a> - beach and castle, mostly. </li>
 <li><a href="http://www.catwithnoname.com/photos/scotland7/">Gallery 7</a> - a shorter one, mostly dog faces (and no our cat doesn't live in Scotland but she's so cute she got included too!). Who knows why Darren needed to take a pic of the tv with that book / cafe / Pamela Anderson show on...  </li>
 </ul>
+
+2016 edit: [Photos from this visit](https://photos.google.com/share/AF1QipMzO1mzutV14IA0VDQPPKWL691Qhze1ljiShTyK3XfImZkEz__u_ZkncZ1bCR6yUA?key=bk1yWVBVVGNVeEpWS0NkMC1uZVBwYWtHSjE2RjNR)

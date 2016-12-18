@@ -31,4 +31,4 @@ I think it's possibly the best meal out I've ever eaten. Every single bit I had 
 
 It's getting quite late now, so I'll go to bed and continue the blog from friday morning.
 
-2016 edit: Photos from this visit: https://photos.google.com/share/AF1QipMzO1mzutV14IA0VDQPPKWL691Qhze1ljiShTyK3XfImZkEz__u_ZkncZ1bCR6yUA?key=bk1yWVBVVGNVeEpWS0NkMC1uZVBwYWtHSjE2RjNR
+2016 edit: [Photos from this visit](https://photos.google.com/share/AF1QipMzO1mzutV14IA0VDQPPKWL691Qhze1ljiShTyK3XfImZkEz__u_ZkncZ1bCR6yUA?key=bk1yWVBVVGNVeEpWS0NkMC1uZVBwYWtHSjE2RjNR)
