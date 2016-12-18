@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-11-07 22:17:28
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/11/07/im-doing-what-lolo-says-this-time/
 published: true
 ---
 Bah to blobligation. I really need to study so the rest will just have to wait. 

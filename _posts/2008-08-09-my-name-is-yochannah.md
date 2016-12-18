@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-08-09 14:49:57
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/08/09/my-name-is-yochannah/
 published: true
 ---
 It rhymes with "runner" - the way I say runner, at least. If you're the type that actually pronounces that final "R" then perhaps you should rhyme it with "gunna" as in "I'm gunna complain about people saying my name wrong". (I'd normally spell that gonna, and not gunna, but it's a colloquial word in either case so does it really matter how it's spelled?).

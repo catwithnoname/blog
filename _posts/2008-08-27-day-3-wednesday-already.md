@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-08-27 16:23:46
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/08/27/day-3-wednesday-already/
 published: true
 ---
 The week was sneaking by far too quickly for my liking. We went out to the dig site and started to record and then dig out <a href="http://picasaweb.google.com/yochannah/HungateOurPhotos/photo#5238191836606998034">this feature</a>. What you see in the pic is actually what was left after we removed it. It was a strange area of greyish clay with small flecks of charcoal in it. It was actually virtually empty of anything interesting - small bits of bone were found but only at the edges where it blended with other features. 

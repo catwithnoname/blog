@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-07-06 16:51:14
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/07/06/laptop-repair/
 published: true
 ---
 I get to fiddle with a laptop today! Darren's aunt texted me the other day saying windows wouldn't start. I talked her through the basic stuff she might be able to do on her own, to no real avail, so the laptop has been given to us to investigate / repair. In the past I've has to do a system restore on this laptop (I think it had a missing system file or something?) and I'd vague suspected at the time that the hard disk might be failing, but it had definitely failed this time. The laptop is an HP - supplied one and has a system restore partition that should put everything to rights if your OS is screwed up. That wouldn't load, so I tried the backup CDs we had wisely made (at the time, Darren told me I was being silly. We've used them twice now. Well, once successfully and once less so....). The CD wouldn't load either, so I asked the BIOS to scan the integrity of the hard drive. It estimated that would take about 41 minutes, but gave up with a disc read error after about 30 seconds *lol*. So basically, her hard drive is fooked. I suspect the laptop has probably had a drop or seven - if they weren't so expensive I would strongly recommend that Darren's aunt should invest in a solid state drive that's more shock-proof. 

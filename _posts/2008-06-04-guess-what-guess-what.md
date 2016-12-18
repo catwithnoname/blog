@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-06-04 11:58:28
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/06/04/guess-what-guess-what/
 published: true
 ---
 I passed my driving test! Yayyyyy!!!

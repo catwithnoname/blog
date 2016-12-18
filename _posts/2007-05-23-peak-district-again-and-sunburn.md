@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-05-23 22:53:41
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/05/23/peak-district-again-and-sunburn/
 published: true
 aktt_notify_twitter:
   - 'no'

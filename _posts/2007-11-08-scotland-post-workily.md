@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-11-08 20:52:02
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/11/08/scotland-post-workily/
 published: true
 ---
 I was trying to make that title sound like a cryptic crossword clue but I don't think it really worked. Something like if a crossword wanted to fit in "kit" they'd give the clue "Baby cat, briefly, or half a chocolate bar."..... What made me think about all that? I know not.

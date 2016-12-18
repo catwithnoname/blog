@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-02-18 22:56:52
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/02/18/no-walk-last-week-or-this-week/
 published: true
 dsq_thread_id:
   - "2485234360"

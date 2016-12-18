@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-02-20 20:59:16
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/02/20/my-bike-may-be-fixed-finally/
 published: true
 ---
 I dropped my bike off at <a href="http://www.jejamescycles.co.uk/">J E James</a>, on wednesday, which is the same place I bought it about 6 months ago. I was led to believe that it would be fixed the same day, so I hung about in sheffield, and did some awful shopping for clothes (because on tuesday, at work, a pair of trousers had split in a bad place. Lucky I had emergency trousers!) and I had some more coffee, and bought <a href="http://www.ageofconan.com">Conan</a>, and had more coffee.... I went to the <a href="http://www.spinsheffield.com/tours/Winter_Garden/2">Winter garden</a> and got shat on by a bird..... after nearly dying of boredom and still no contact, I rung J E James, only to be told it'd be tomorrow after all. A frustrating day, all in all.

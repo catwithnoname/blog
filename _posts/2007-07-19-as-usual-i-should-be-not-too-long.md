@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-07-19 17:37:11
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/07/19/as-usual-i-should-be-not-too-long/
 published: true
 dsq_thread_id:
   - "2526742496"

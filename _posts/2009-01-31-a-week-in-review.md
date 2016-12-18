@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-01-31 16:41:09
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/01/31/a-week-in-review/
 published: true
 ---
 So, the last few days have been busy ones. I went to a uni tutorial in Lincoln (booked the day off and went with Darren) about a week ago, intending whilst in town to finally buy much needed running shoes to replace the miserable old ones I have. Looking back, <a href=2"http://catwithnoname.com/wordpress/?p=66">I've known I've needed new ones since 2007</a>, but I think it was the bits falling off the soles and the squeak from the left shoe that finally broke the camel's back. I went to 3 or 4 sports stores looking for decent trainers/sneakers (take your pic! Darren hassles me if I say sneakers but it is my preferred word.) only to learn that "sports stores" are actually fashion stores. There were no running shoes that weren't pink, and the sales people didn't know much about the shoes or whether they were of a decent quality for running and would support my foot. I don't care how much I need shoes, I refuse to submit to the tyranny of the "women want to wear pink" notion. There's nothing wrong at all with pink as a colour. I might actually like it. But it's ridiculous to make women's things only in pink, leaving me with a choice between a badly fitting man's item, or one tailored for my size and shape that comes in a single colour. Or to make a laptop,  mobile phone, or some other gadget, and to make it in silver, white, or black, and then the only other colour is pink - "for girls". 

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-02-23 14:23:30
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/02/23/request-for-help/
 published: true
 ---
 This is an email I got from my mum a few days ago. In short - my sister has Attention Deficit Disorder - ADD, and attends a special school that is able to deal with young people who have ADD / ADHD. The school is in bad debt due to government funding being withdrawn, so any help at all would be appreciated, even if it's only a few pounds / dollars / euros / whatever. If you can help, feel free to contact me (yochannah-at-gmail-dot-com) or the school directly. It'll mean a lot to me, my family, and especially my sister. 

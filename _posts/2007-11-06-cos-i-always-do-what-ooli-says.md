@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-11-06 23:30:28
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/11/06/cos-i-always-do-what-ooli-says/
 published: true
 ---
 I need to start from Wednesday, I guess. We got up lazily in the morning at home, having packed the previous night. Hopped on a train to Nottingham and then a bus to East Midlands Airport. The plane left on time, heading to Inverness. It had free seating, which I've never encountered before. There was a woman with three kids who were evil. The boy sat beside us. Mostly he wasn't a problem, but at the end of the flight (a nice short one, about an hour), he was asked to turn of his Nintendo DS for landing. A simple request, no? He wouldn't turn it off. Now I think most young people understand how it would suck if you can't save the game and might lose all your progress, but if the plane's landing, it's landing! nothing to do! The kid didn't see it that way though. His mother was sitting across the aisle from him and couldn't get him to turn it off. She tried removing it from him but it appears she had very weak hands and wasn't able to forcibly remove it from her child. The flight attendant tried to remove it, but it wasn't a comfortable situation and he didn't really want to use force on another person's child. Darren tried, but again wasn't going to try too hard, so didn't get it off the brat either. Eventually the mother took it off the child, turned it off........ and handed it straight back to him!!! Gotta love the logic and discipline there. Especially since he just turned it straight back on and played it during the whole descent and landing process. 

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-06-23 12:15:53
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/06/23/where-to-tomorrow/
 published: true
 aktt_notify_twitter:
   - 'yes'

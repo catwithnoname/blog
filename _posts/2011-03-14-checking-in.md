@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2011-03-14 00:02:36
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2011/03/14/checking-in/
 published: true
 aktt_notify_twitter:
   - 'no'

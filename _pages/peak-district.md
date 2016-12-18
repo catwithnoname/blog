@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-08-20 23:02:52
 post_excerpt: ""
 layout: page
-permalink: >
-  http://catwithnoname.com/wordpress/peak-district/
 published: true
 ---
 I decided to try and collate some of my Peak districty stuff in one place, particularly public transport info. This'll probably not be of interest to most people I know, cos you don't live in the area *L*.

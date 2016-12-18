@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-05-29 21:52:05
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/05/29/i-have-conquered-the-wordpress-beast/
 published: true
 ---
 It all seemsto be okayish now. There's still more to add, but the basic blueandgreen is working and not all wonky. I need to remember that the comments.php does not need any structural info, just the single post page. Next stylesheet switch when I'm struggling, I hope I'll remember that.

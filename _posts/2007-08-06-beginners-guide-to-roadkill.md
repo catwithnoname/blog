@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-08-06 20:58:10
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/08/06/beginners-guide-to-roadkill/
 published: true
 ---
 Roadkill comes in many shapes, sizes, and splatters. The average motorist notices it very occasionally, normally when a hare the size of a small dog has managed to get dead right in the middle of the street. As a biker, however, you go past roadkill at a much slower speed, allowing you to examine the kill at your leisure. 

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-12-05 21:54:17
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/12/05/bitchin-desk/
 published: true
 dsq_thread_id:
   - "534369926"

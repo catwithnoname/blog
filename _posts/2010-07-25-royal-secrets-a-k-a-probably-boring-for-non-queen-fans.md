@@ -7,8 +7,6 @@ author: yochannah
 post_date: 2010-07-25 13:20:04
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2010/07/25/royal-secrets-a-k-a-probably-boring-for-non-queen-fans/
 published: true
 aktt_notify_twitter:
   - 'yes'

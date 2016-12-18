@@ -7,8 +7,6 @@ author: yochannah
 post_date: 2007-08-08 21:04:20
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/08/08/this-is-the-greatest-and-best-song-in-the-world/
 published: true
 ---
 <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/R70V1Yz-dZ4"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/R70V1Yz-dZ4" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>

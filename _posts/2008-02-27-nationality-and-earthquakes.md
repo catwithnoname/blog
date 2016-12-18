@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-02-27 22:44:00
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/02/27/nationality-and-earthquakes/
 published: true
 ---
 Nationality: I was talking to Shaun the other night and for some reason I was reminded during the conversation of the fact that I should really apply for British citizenship since I've lived here long enough.  I wandered about the various government sites and found the application form. And then I did a double take. HOW much?????? Oh, only £665. Ouch, ouch, ouch. I've had a few days to adjust to the amount but it is still evil. Can the admin cost for this really be so high? Is it a way of keeping "undesirable" residents from becoming citizens? Suddenly I've sold my soul for overtime. It's not that we can't afford it - we save money.... but I wanted to, y'know, use that money for something nice, something fun, or at worst case a rainy day. I don't want a big chunka money spent on boring stuff. I won't call it spending on unimportant stuff - because at the moment (always really I guess) there is so much in the news about those terrible immigrants coming and taking our jobs and stealing our benefits and working illegally and so on.... 

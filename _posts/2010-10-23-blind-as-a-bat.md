@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2010-10-23 11:04:37
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2010/10/23/blind-as-a-bat/
 published: true
 aktt_notify_twitter:
   - 'no'

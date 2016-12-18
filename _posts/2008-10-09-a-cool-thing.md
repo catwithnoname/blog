@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-10-09 21:37:33
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/10/09/a-cool-thing/
 published: true
 ---
 Just outside Consett, I really enjoyed cycling through a nifty snakey area that I could see was popular with all sorts of cyclists. Cyclists with more balls than me (in a figurative sense, cos most cyclists have more balls than me in a literal sense) were going up and down the hilly bits, but I just followed the meandering path. It's the <a href="http://maps.google.com/maps?q=http://trail.motionbased.com/trail/kml/episode.kml?episodePkValues=6913074">Jolly Drovers Maze</a>. <a href="http://www.sustrans.org.uk/default.asp?sID=1095252379453">Sustrans has some pictures</a> and a <a href="http://www.sustrans.org.uk/default.asp?sID=1121269805734">description</a> of it.

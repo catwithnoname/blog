@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-07-30 22:11:03
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/07/30/today-was-much-nicer/
 published: true
 ---
 I had a Depo appointment in the morning. I'm not scared of needles at all (remember I have 7 earrings?) but the illogical bit of me always makes me tense up a tiny bit anyway. The nurse today was sneaky in a good way and stuck me before I was ready, so I didn't have a chance to tense up. She did do it a bit higher than normal, so my waistband on my trousers is causing the stiff muscle some irritation. Oh well.

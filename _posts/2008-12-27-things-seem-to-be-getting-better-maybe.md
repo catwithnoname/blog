@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-12-27 13:47:19
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/12/27/things-seem-to-be-getting-better-maybe/
 published: true
 ---
 Ok, here's the longer version, 

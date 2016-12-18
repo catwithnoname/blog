@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-04-27 22:06:23
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/04/27/over-a-month-between-updates/
 published: true
 dsq_thread_id:
   - "239014356"

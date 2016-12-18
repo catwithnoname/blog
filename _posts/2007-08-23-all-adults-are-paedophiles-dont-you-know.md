@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-08-23 21:45:19
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/08/23/all-adults-are-paedophiles-dont-you-know/
 published: true
 ---
 Between the building I work at and the nearby "Kidz @ Work" there is a little strip of grass. Being cooped up in a building all day, people like to sit on it during their lunchtimes, if it's sunny. 

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-03-05 22:21:25
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/03/05/kittieeecat/
 published: true
 ---
 She has a bizarre affection for my Eee neoprene case, for some reason. She keeps on hopping onto my desk to sit on it (and sometimes gives me a hug as well). 

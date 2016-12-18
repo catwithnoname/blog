@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-06-26 21:36:24
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/06/26/water-water-everywhere/
 published: true
 ---
 that's a quote from something, I think. But what? *checks* It's <a href="http://etext.virginia.edu/stc/Coleridge/poems/Rime_Ancient_Mariner.html">The Rime of the Ancient Mariner</a> (that's not a typo btw).

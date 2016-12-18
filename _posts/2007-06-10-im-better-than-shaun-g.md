@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-06-10 13:40:24
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/06/10/im-better-than-shaun-g/
 published: true
 ---
 <a href="http://mingle2.com/zombie-quiz" style="color: #fff; text-decoration: none; display: block; width: 385px; height: 244px; background: url(http://mingle2.com/css/img/zombie/big_badge.jpg) no-repeat; font-family: Times New Roman, sans-serif; font-size: 60px; text-align: center;"><span style="display: block; padding-top: 35px;">57%</span></a>

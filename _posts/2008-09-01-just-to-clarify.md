@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-09-01 08:26:39
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/09/01/just-to-clarify/
 published: true
 ---
 On Saturday I got off the train early, cos I like to cycle. I stopped by Sainsbury's supermarket on the way to pick up some food. At the cycle parking area a boy of 10 or so - give or take a couple of years - came along and told me he liked my bike. That's the perfect pickup line for me, y'know. So I decided to show off a wee bit and show him how it folded. He was young and not <a href="http://en.wikipedia.org/wiki/Chav">chav</a>-like so I didn't feel intimdated and unwilling to discuss my bike or its features lest it get damaged or stolen. A girl of similar age came along - perhaps a sister or friend - on her bike, and started to chat as well. She asked me if I'd fallen off my bike recently, noticing the graze on my knee. We chatted a little bit longer, and then I left and went to the supermarket to get food.

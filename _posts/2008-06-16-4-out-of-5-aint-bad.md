@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-06-16 19:44:17
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/06/16/4-out-of-5-aint-bad/
 published: true
 ---
 It's like the meatloaf song, only different. It was supposed to be 54 miles in 24 hours but my legs said no no no. it'll be 42 miles only, thankyou very much. Still not bad but I can't say I'm not disappointed either. I never thought to be a quitter, but I knew my limits and apparently loads of people were passing out on the ground at the last stage. I'm glad I had the sense to know when to stop, unlike them.  

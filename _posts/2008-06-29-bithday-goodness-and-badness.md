@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-06-29 23:01:58
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/06/29/bithday-goodness-and-badness/
 published: true
 ---
 Badness: I spoke to mum, and she told me Deedee (<a href="http://www.catwithnoname.com/photos/Israel%202007%20Gallery%201/images/P1000362.JPG">1 pic</a>, and <a href="http://www.catwithnoname.com/photos/Israel%202007%20Gallery%201/images/P1000365.JPG">another</a> - Deedee has the red coloured collar) was dead. Stupid snakes!!! It got <a href="http://www.catwithnoname.com/photos/Israel%202007%20Gallery%201/images/P1000358.JPG">Shake</a> as well, but last I heard earlier today he had a huge swollen jaw but seemed likely to survive. Apparently mum gave him a human antihistamine *l*. It's weird that my parents had five dogs for a decade and then within about a period of a year there were two snake attacks, killing three of them and hurting a fourth. 

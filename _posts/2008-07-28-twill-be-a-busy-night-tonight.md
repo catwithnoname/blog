@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-07-28 14:00:56
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/07/28/twill-be-a-busy-night-tonight/
 published: true
 ---
 Darren's Aunt's laptop is still coming back to haunt me, so I'm going to go over there to find out what's going on. There's a 90% liklihood that this one is a <a href="http://www.urbandictionary.com/define.php?term=picnic&defid=2416731">PICNIC</a> error, and possibly some damaged equipment as well. The other day when Lolo & Judith and I were killing time in Edwinstowe waiting for our bus, she was texting me and telling me that her internet connection wasn't working. I got her to unplug all the cables from the router (based on the fault description she'd given me), unfortunately to no avail. When I asked her direct questions she was saying things like "I've tried everything I can think of"... which really doesn't answer my question, because I don't know what she's thought of! I eventually got quite annoyed and stopped texting her since she wouldn't answer my questions sensibly... which is really unlike me, I think. Texting is just so cumbersome and slow, and I really would rather have paid attention to friends than ... work... and I wasn't going to call her on the phone with friends about. 

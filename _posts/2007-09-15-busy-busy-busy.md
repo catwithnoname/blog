@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-09-15 16:09:33
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/09/15/busy-busy-busy/
 published: true
 ---
 I'm sitting at work eating some seeds. I can feel the omega 3 oils entering my system already. Or maybe they're just a nice snack. 

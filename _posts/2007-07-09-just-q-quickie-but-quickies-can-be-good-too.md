@@ -7,8 +7,6 @@ author: yochannah
 post_date: 2007-07-09 13:09:42
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/07/09/just-q-quickie-but-quickies-can-be-good-too/
 published: true
 ---
 As I sorta predicted earlier biking has exhausted me so all i was doing was work / biking / sleeping. This is the summary:

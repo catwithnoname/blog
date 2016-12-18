@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-11-21 14:59:24
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/11/21/naughty-little-climber/
 published: true
 aktt_notify_twitter:
   - 'no'

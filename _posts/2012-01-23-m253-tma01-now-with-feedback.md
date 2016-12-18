@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2012-01-23 22:31:09
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2012/01/23/m253-tma01-now-with-feedback/
 published: true
 dsq_thread_id:
   - "551619283"

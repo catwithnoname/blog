@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2010-02-18 14:44:25
 post_excerpt: ""
 layout: page
-permalink: >
-  http://catwithnoname.com/wordpress/about-pro/
 published: true
 aktt_notify_twitter:
   - 'no'

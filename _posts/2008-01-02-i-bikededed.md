@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-01-02 19:47:57
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/01/02/i-bikededed/
 published: true
 ---
 I did the planned run from New Mills to Hayfield and back. Forgot my bikelock so I couldn't do any walking really, which was a bit poopy. I also downloaded the location of a <a href="http://www.geocaching.com/">Geocache</a> to try and find, which I didn't manage to. Basically, they're small caches of stuff hidden away and known about only by the <span style="text-decoration:line-through">wizarding</span> GPS world. They contain a log book and.... Stuff. Apparently non geocachers are actually known as muggles *l* which is incredibly amusing. You download the coordinates onto your GPS device to locate it. If you're sensible (like I wasn't this first try) you also print the hints and spoiler photos or load them onto a mobile device (I shall stick it on my phone next time. There are loads in Worksop area so I may find some properly soon). If / when you find the cache, you write something in the logbook, and if you like you take something out and put something else back in. What somethings? I don't know yet, but I get the impression it could be almost anything. There are also little trackable thingies that you're supposed to register if they get moved so their progress can be tracked.... I get the impression somethings have "missions" to go to various locations with just the help of random geocachers. And obviously they're supposed to be hidden well enough that bypassers won't find them by accident. I'm looking forward to actually finding one. 

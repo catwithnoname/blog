@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-08-05 22:04:53
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/08/05/digital-art-and-gardens/
 published: true
 ---
 I was really restless today. 

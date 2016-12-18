@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-11-25 16:55:31
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/11/25/i-can-hear-lots-of-french/
 published: true
 ---
 Darren's playing Day of Defeat on a French server with voice chat, so we can hear everything they say. It involves killing people not on your team and not killing people on the other team, so there's no real need for him to understand what they're saying. So I'm sitting and studying to a stream of yummy-accented nonsense. Occasionally I recognise a word, which is far more exciting that it should be. 

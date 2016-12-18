@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-06-05 21:37:32
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/06/05/so-that-walk/
 published: true
 aktt_notify_twitter:
   - 'yes'

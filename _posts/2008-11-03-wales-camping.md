@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-11-03 22:45:11
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/11/03/wales-camping/
 published: true
 ---
 So, the full album is huge, and has of some weird photos of the car dashboard? But <a href="http://picasaweb.google.com/yochannah/NorthWalesCampingOct08#">here</a> is the main album. I think I may have given up on my pretty flash galleries.

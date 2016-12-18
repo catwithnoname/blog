@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2011-07-26 22:22:37
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2011/07/26/tramlines/
 published: true
 dsq_thread_id:
   - "369356967"

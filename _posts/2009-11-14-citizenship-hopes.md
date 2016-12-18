@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-11-14 15:19:51
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/11/14/citizenship-hopes/
 published: true
 aktt_notify_twitter:
   - 'no'

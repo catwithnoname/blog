@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-06-13 17:25:41
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/06/13/bwahahahahahahahahahahahahahahahahaha/
 published: true
 ---
 Actually, it's not that thrilling really, cos it's IE. <a href="http://www.tatanka.com.br/ies4linux/page/Main_Page">http://www.tatanka.com.br/ies4linux/page/Main_Page</a>. but I can use it in linux for sites that are so stuck up and wicked that they don't work properly on *real* browsers. 

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-01-04 22:07:02
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/01/04/me-powerful/
 published: true
 ---
 <a href="http://catwithnoname.com/wordpress/?p=9">Remember this?</a>

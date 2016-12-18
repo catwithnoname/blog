@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-06-27 09:52:08
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/06/27/spam-spam-spam/
 published: true
 ---
 11 comments marked as spam today. I only cleaned out three last night and thirty or so the week before. I wonder if I can hide this blog from search engines to see if that helps, or if it's too late and my soul is sold to SPAM!

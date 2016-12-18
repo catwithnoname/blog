@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-08-20 21:42:08
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/08/20/ive-been-tagged/
 published: true
 dsq_thread_id:
   - "2483948980"

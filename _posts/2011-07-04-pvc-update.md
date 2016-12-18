@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2011-07-04 23:06:59
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2011/07/04/pvc-update/
 published: true
 dsq_thread_id:
   - "350045740"

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-02-28 08:35:10
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/02/28/did-i-ever-mention/
 published: true
 aktt_notify_twitter:
   - 'no'

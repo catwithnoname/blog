@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2010-06-19 15:56:36
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2010/06/19/a-little-update/
 published: true
 aktt_notify_twitter:
   - 'yes'

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-10-03 23:35:33
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/10/03/the-plan-for-tomorrow/
 published: true
 ---
 <a href="http://www.walkingbritain.co.uk/walks/walks/walk_b/3407/">Walk 3407</a> from walkingbritain.co.uk. I'll start off at Chinley, which has iffy associations for me, since that was where I got lost from the time when I got so majorly lost I ended up in a different town from the one I was headed to. This is going in a different direction however, towards Edale, which I know and love. 

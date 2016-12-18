@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-01-11 21:48:07
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/01/11/eeets-so-cool/
 published: true
 ---
 If you don't already know all about the <a href="http://www.ebuyer.com/product/135074">Eee</a>, now you will. It's a cross between an ultra-portable laptop and a PDA. It's got a seven inch screen, and it wights less than a kilo. It's only got between 2, 4 or 8 gb of storage space. "Why do you want a tiny laptop with no space?" you ask. "Well," I say, "it's good when on the go." Or if you just want to browse. Want to drop it? go on, it hasn't got a hard disk drive, it's got a solid state drive. That means that clunks don't ruin it. It has USB ports and an SD card reader, so the paltry few gigs of storage are easily expandable. It runs a dumbed down version of linux that anyone can use, so the OS doesn't take the space or require the performance that a windows machine does. and for people who don't need dumbed down-ness, you can pull the full OS functionality out with a bit of tinkering. If you must have windows, it comes with a guide on how to do that (I used to run Windows XP on a 4GB drive, not all that long ago. Weird to contemplate.) It can take a normal ethernet cable or pick up a wifi connection. 

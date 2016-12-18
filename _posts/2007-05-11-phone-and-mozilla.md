@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-05-11 21:48:00
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/05/11/phone-and-mozilla/
 published: true
 ---
 Well I've just bought I <a href="http://www.nokia.co.uk/A4344232">Noka N73</a>, which I should hopefully have on Wednesday May 16th. I've also bought a 1 gig mini-SD Card for it, with a card reader and an adaptor to make it work like a normal SD card, for only Â£13.... impressive, neh?

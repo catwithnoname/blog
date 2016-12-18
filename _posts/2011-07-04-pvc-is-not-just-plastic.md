@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2011-07-04 12:02:00
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2011/07/04/pvc-is-not-just-plastic/
 published: true
 dsq_thread_id:
   - "349201837"

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-08-30 21:51:09
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/08/30/just-stuff/
 published: true
 ---
 We got a <a href="http://www.argos.co.uk/static/Product/partNumber/8701129.htm">kitty scratcher</a>. She likes to stand on the tube at the bottom and poke up through the hole in the middle to play with the dangley toy. She's been in the house and on top of it too. She scratched it! She climbs the posts! A success!!

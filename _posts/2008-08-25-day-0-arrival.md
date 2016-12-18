@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-08-25 14:54:37
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/08/25/day-0-arrival/
 published: true
 ---
 Sunday 17th August - This is Day 0 since it's only a half day really, and we didn't start the course until the Monday. We'd decided to take both of our bikes, and had reserved spaces for them on the train services that required reservations. Bizzarely, you HAD to reserve seats if you reserved bike spaces - but the seats we were given were generally in coach D or E, and the bikes were carried on coach P. All of our train journeys were 25 minutes or less, so we basically had to ignore the seat reservations and stand about in the first class coach entryways - several first class coaches were between the standard class coaches and the bike coaches - because if we actually sought out our seats all the way down the other end of a LONG train we'd probably reach them just in time to have to head back to coach P to <em>collect</em> the bikes again. 

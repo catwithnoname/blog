@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2010-03-06 15:23:20
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2010/03/06/goldilocks-and-the-three-bears/
 published: true
 aktt_notify_twitter:
   - 'yes'

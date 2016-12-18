@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-05-04 11:52:20
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/05/04/i-can-has-lolcode/
 published: true
 aktt_notify_twitter:
   - 'yes'

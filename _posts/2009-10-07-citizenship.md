@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-10-07 20:10:30
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/10/07/citizenship/
 published: true
 aktt_notify_twitter:
   - 'yes'

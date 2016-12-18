@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-09-02 12:48:31
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/09/02/our-cat-is-a-wanted-criminal/
 published: true
 ---
 We got the catnip spray and put some in her house. Of course she sniffed about a lot and curled up inside. After her experiences with the stoning cupboard, catnip must be like methadone to her *lol*. 

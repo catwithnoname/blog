@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-07-28 14:50:03
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/07/28/so-im-back-part-2/
 published: true
 ---
 If you read this half first it might make less sense.

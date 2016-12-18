@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-07-12 13:34:20
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/07/12/busy-days-off/
 published: true
 ---
 On Monday I had a glance at my rota at work and discovered I was scheduled to be off on Thursday and Friday. My team leader Chris had gotten some dates confused when I originally tried to book time off to do my very last web apps end-of-course-assessment. I thought we'd figured out all the right dates and stuff - and we had - but he'd left these two days on the rota as well by accident. I figured I might as well take them since I still have two weeks of holiday left. Combined with my normal Wednesday off in the week, this gave me loads of time off - I seldom even get two days off in a row, nevermind three. 

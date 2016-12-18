@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-08-04 15:25:44
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/08/04/so-maybe-it-wasnt-so-sneaky-i-guess/
 published: true
 ---
 it's not that it snuck up reaaaalllly, I suppose, more that it just doesn't feel like it should be august yet.  I did notice june and july and the months before those. We have to pay a lot of attention to dates here at work too cos we have OLAs to meet. I'm not sure why we dont't call them SLAs, which is the term I've heard almost everywhere else.

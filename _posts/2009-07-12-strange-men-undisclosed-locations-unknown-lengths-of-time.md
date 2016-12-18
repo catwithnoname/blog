@@ -7,8 +7,6 @@ author: yochannah
 post_date: 2009-07-12 21:07:35
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/07/12/strange-men-undisclosed-locations-unknown-lengths-of-time/
 published: true
 aktt_notify_twitter:
   - 'yes'

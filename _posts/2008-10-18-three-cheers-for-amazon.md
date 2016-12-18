@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-10-18 16:05:42
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/10/18/three-cheers-for-amazon/
 published: true
 ---
 You now need to buy only one book to get <a href="http://www.amazon.co.uk/gp/help/customer/display.html/ref=ms_sbrspot_1?%5Fencoding=UTF8&nodeId=200039400&pf_rd_p=223767991&pf_rd_s=gateway-center-column&pf_rd_t=101&pf_rd_i=468294&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_r=0N2MT5Z621TYB7JG14EQ!">free delivery</a>. Super awesome. 

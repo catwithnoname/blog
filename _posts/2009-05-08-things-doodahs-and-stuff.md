@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-05-08 13:31:41
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/05/08/things-doodahs-and-stuff/
 published: true
 aktt_notify_twitter:
   - 'yes'

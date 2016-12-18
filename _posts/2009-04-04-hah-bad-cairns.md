@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-04-04 12:54:13
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/04/04/hah-bad-cairns/
 published: true
 aktt_notify_twitter:
   - 'yes'

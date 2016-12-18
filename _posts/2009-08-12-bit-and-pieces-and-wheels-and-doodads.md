@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-08-12 21:28:29
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/08/12/bit-and-pieces-and-wheels-and-doodads/
 published: true
 aktt_notify_twitter:
   - 'yes'

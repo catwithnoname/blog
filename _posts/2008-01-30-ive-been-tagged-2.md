@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-01-30 21:23:14
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/01/30/ive-been-tagged-2/
 published: true
 ---
 The rules:

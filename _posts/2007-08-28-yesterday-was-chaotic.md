@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-08-28 22:17:49
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/08/28/yesterday-was-chaotic/
 published: true
 dsq_thread_id:
   - "2517904885"

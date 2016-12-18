@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2012-01-01 16:03:48
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2012/01/01/m253-approaching-tma01/
 published: true
 dsq_thread_id:
   - "523903386"

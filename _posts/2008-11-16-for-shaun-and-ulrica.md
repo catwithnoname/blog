@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-11-16 23:54:04
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/11/16/for-shaun-and-ulrica/
 published: true
 aktt_notify_twitter:
   - 'yes'

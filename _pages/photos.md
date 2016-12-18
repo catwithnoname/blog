@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-05-23 23:00:13
 post_excerpt: ""
 layout: page
-permalink: >
-  http://catwithnoname.com/wordpress/photos/
 published: true
 aktt_notify_twitter:
   - 'yes'

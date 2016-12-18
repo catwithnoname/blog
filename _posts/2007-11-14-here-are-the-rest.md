@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-11-14 14:39:25
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/11/14/here-are-the-rest/
 published: true
 ---
 <br /><br />

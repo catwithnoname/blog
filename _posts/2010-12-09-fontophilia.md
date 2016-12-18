@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2010-12-09 20:16:50
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2010/12/09/fontophilia/
 published: true
 aktt_notify_twitter:
   - 'no'

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-02-02 16:02:38
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/02/02/cough-cough/
 published: true
 ---
 I have a cold :( walking to the toilet or moving across the bed is enough to set me off on a coughing fit... so this morning I decided perhaps it might be a bit deathly to attempt to bike to work in a snowstorm. It's been coming down all day, even in worksop, which is crazy!!

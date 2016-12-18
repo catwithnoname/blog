@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-08-13 20:50:40
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/08/13/nokia-n73-and-trains/
 published: true
 ---
 It's like a whole new Era. The trains are back, which mean I'll be less exhausted and home more. It felt bizzarely momentous when I realised I'd biked home from sheffield for the last time. I liked it a wee bit cos of the fitness but the sleeping, regulated diet, and lack of time were frustrating. 

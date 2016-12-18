@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-11-06 14:13:47
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/11/06/fun-freaks-food/
 published: true
 ---
 ....... we're back from Scotland now (howcome it always goes so fast?!).

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-06-27 10:00:39
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/06/27/it-might-get-faster/
 published: true
 ---
 

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-10-08 22:05:17
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/10/08/im-holding-out-for-hero/
 published: true
 ---
 I'm watching Never mind the Buzzcocks, and Bonnie Tyler, a guest on the episode, appears to be completely drunk... Maybe she needs a rehab hero. 

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-06-22 22:13:26
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/06/22/im-very-good-today-and-not-so-stupid/
 published: true
 ---
 I SORNed my vehicle today. I was going to pay the tax again cos I think I'll be driving in a month or two, but I need to be insured as well and that's too much work.  That is one Good Responsible Thing.

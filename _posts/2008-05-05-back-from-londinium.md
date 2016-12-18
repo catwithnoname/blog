@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-05-05 22:45:57
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/05/05/back-from-londinium/
 published: true
 ---
 Spent the bank hol weekend in london with a friend who moved down there recently for a new job.... I had a half dayoff on friday so we could get the cat down to the cattery and stuff, and we had a really easy train journey down. I'd been looking forward to it all week because I could use my Eee on the free Wifi on the train, but typically the server was playing up and so I could connect to the train's local server page but not the big whole internet. 

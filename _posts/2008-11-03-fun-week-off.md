@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-11-03 14:02:04
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/11/03/fun-week-off/
 published: true
 ---
 In lieu of going to ireland last week or having visitors *sad face* we had a lazy week last week. We planned to go camping for the first half of the week, starting the first day by driving to the campsite and stopping to geocache along the way. Between the weather and the early time it got dark, we didn't get to do much caching though. <a hrewf="http://www.geocaching.com/seek/cache_details.aspx?guid=06bc407a-ca9e-4c65-a040-fda33c9f6017">The first cache</a> was near <a href="http://www.chatsworth.org/">Chatsworth</a>, and wasn't terribly fun since it was just a microcache - a film container with a roll of paper in it to sign. We managed to find it by going alllll the wrong way and getting lots of blackberry scratches and nettle stings - and once we found it we realised that if we'd gone along that nice little path no crazy climbing would have needed to happen. 

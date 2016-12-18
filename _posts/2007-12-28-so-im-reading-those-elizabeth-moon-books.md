@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-12-28 21:51:14
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/12/28/so-im-reading-those-elizabeth-moon-books/
 published: true
 ---
 And I can't put them down. It's almost physically impossible. I swapped my lunch hour with John today so that I could read an hour earlier than I would have otherwise *lol*. I need to get her Paksenarrion stuff so I can reread it. Mmmm mmm mmm. Why do good authors have to have a finite amount of books? No fair!!! 

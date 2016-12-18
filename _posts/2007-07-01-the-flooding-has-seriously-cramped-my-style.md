@@ -7,8 +7,6 @@ author: yochannah
 post_date: 2007-07-01 23:06:25
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/07/01/the-flooding-has-seriously-cramped-my-style/
 published: true
 ---
 I've been living on a work/travel/eat/sleep basis alone the last four or five days. Tue / Wed I could not get to work (well I don't know about buses/trains on Wednesday but I had the day off anyway so it's irrelevant I guess). I'd been told originally that due to a landslide the trains might be out for a week, so I was forced to try the bus thing. There's no direct bus from Worksop to sheffield, so I'm forced to take three different buses.

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2011-03-14 00:09:19
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2011/03/14/silent-sunday/
 published: true
 aktt_notify_twitter:
   - 'no'

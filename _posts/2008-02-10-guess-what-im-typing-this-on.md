@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-02-10 20:11:51
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/02/10/guess-what-im-typing-this-on/
 published: true
 ---
 Eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee! Eeeeeeeeeeeeeeeee! Eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!!!!!!

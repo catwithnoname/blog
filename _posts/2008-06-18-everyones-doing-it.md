@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-06-18 14:18:55
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/06/18/everyones-doing-it/
 published: true
 ---
 And so must you too.

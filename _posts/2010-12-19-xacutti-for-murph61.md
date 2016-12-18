@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2010-12-19 21:45:22
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2010/12/19/xacutti-for-murph61/
 published: true
 aktt_notify_twitter:
   - 'yes'

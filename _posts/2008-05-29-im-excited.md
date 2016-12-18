@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-05-29 19:02:12
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/05/29/im-excited/
 published: true
 ---
 About loads of things really:

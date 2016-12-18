@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-11-10 22:41:22
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/11/10/procrastination-such-a-sensation/
 published: true
 ---
 So I worked late yesterday too, and got told via my team leader that the Big Boss said I could get a £30 meal reimbursed by work for doing overtime on short notice. Purty cool. 

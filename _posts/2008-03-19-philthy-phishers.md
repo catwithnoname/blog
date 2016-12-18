@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-03-19 21:07:06
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/03/19/philthy-phishers/
 published: true
 ---
 Got a paypal "phishing" email into my inbox today, looked REALLY genuine. It's soooooooooooo easy to be pulled in by it, too. When I saw the "Critical Information Regarding Your Account" from "Paypal" I rushed to check the mail, and very nearly clicked on the link inside. 

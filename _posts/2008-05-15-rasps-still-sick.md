@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-05-15 16:26:07
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/05/15/rasps-still-sick/
 published: true
 dsq_thread_id:
   - "663807117"

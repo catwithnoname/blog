@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-03-06 23:04:18
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/03/06/dirty-leeds-or-dirty-me/
 published: true
 aktt_notify_twitter:
   - 'no'

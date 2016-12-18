@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2010-01-10 16:57:29
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2010/01/10/disappointed-in-drm/
 published: true
 aktt_notify_twitter:
   - 'yes'

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-07-05 23:12:42
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/07/05/where-weve-been/
 published: true
 aktt_notify_twitter:
   - 'yes'

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2011-03-21 23:13:02
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2011/03/21/firefox-4-tomorrow/
 published: true
 dsq_thread_id:
   - "260692119"

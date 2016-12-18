@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-07-29 14:02:46
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/07/29/twas-a-busy-night-indeed/
 published: true
 ---
 So... the bike ride there was nice, the route was easy to follow, and the temperature was dreamy. I'm so incredibly happy at the moment about the warmth. I LOVE not having to wear 3+ layers in order to be warm enough. It's just a shame that work is so climate controlled that I still need to wear loads even when it's warm. The rest of the UK is rolling about in agony because it's... omg! 25! Sweltering!! &lt;/sarcasm&gt; and I'm just about happy enough to weep. Seriously. Beer belly guys keep on thinking that the heat means they should take off their tops. Ugh. Put away the paunch, guys. I've lived in a far hotter country where people didn't feel the need to show oversized guts all the time. And that is generally, not relevant to religious status. 

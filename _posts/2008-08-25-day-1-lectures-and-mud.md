@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-08-25 15:37:53
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/08/25/day-1-lectures-and-mud/
 published: true
 ---
 The first day we woke up at about 730 am - a long sleep in for me, considering I normally get up at 6 am. I'd have gotten up later still - I normally take about 7 - 9 minutes to get ready in the morning *l*  but Darren needs longer to get ready - so I read quite a bit after I got up. I had a sore back from the cramped bed, but as soon as I started walking about that seemed to go away. 

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-08-22 21:57:26
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/08/22/eyam-moor-bikeride/
 published: true
 dsq_thread_id:
   - "2472955917"

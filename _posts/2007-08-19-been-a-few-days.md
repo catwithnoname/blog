@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-08-19 22:11:50
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/08/19/been-a-few-days/
 published: true
 ---
 Wednesday I went to the Peak District for my walkerisifying. To be strict, I went there to walk OR bike, without knowing which I would do. The weather outlook was dim; I didn't think it would be wise to go walking on the peaks if it was pouring, or more importantly, if it was foggy.

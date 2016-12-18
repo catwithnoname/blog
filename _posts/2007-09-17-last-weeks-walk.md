@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-09-17 22:55:03
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/09/17/last-weeks-walk/
 published: true
 ---
 Ok. Started out nice and early, left home just after Darren. I'd prepared my backpack mostly the night before, so all I had to do before I left home was sort the catfood and catlitter out. 9:15 AM train to sheffield, 10:15 train to Hathersage. On my way at 10:30 or 10:40, with a lovely coffee safely inside me, bought at sheffield between trains. I started off on the wrong foot, as I couldn't find where the trail started. (I know now I should have gone to the right of the post office, not the left.) I ended up taking a roughly two mile detour - I realised where I was after not long, but it wasn't where I wanted to be. I didn't want to backtrack, cos that would suck. to I headed forward until there was a place I could turn right and hook back up with the trail without really missing out. It added about two miles onto my journey, but that was ok.

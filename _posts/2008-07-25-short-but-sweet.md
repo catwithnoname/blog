@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-07-25 21:38:36
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/07/25/short-but-sweet/
 published: true
 ---
 Lolo and Judith have been and gone now - they got most of the time they were here summed up on their <a href="http://laurence-judith.thegeekcartel.com/blog/">trip blog</a>. Thursday morning, we got up early (before 9! *lol*) and then got the train to Meadowhall Interchange where we waited about quite bored for a while and then eventually had to say hurried goodbyes because the busdriver was grumpy and seemed to be in a rush. The problem with having friends visit is that you have to say goodbye, which is pretty sucky. But as Lolo said, we'll need to make sure it's not five whole years (!!!!) before we see each other again this time... I think we need to visit Montreal at some point. They described SO much wacky food... and apparently they really do put maple syrup on everything!!!! They taught us the art of putting sickly amounts of sugar and maple syrup on crepes, and described poutine and crazy sugar shack ham and eggs and bacon all covered in maple syrup. Crazy frenchies *g*. 

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-09-17 21:21:37
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/09/17/weirdness/
 published: true
 ---
 I still need to hash out the details of exactly where I'm staying at night on the c2c, and I need to order train tickets. Pre-order makes them about 1/4 of the price they would be if I bought them on the day, which is a crazy difference, really. I had some fun getting hold of a map - I tried to buy a map and guide from <a href="http://www.baytreepress.com/shop/Main_home">Baytree Press</a>, and I had a bit of a fit when the guide arrived, with no map. Turns out, once I'd calmed down enough to read the note that came with the guide, that the map was sold out and being reprinted, so probably really hard to get anywhere. It was due back in stock in the start of October.... And when did I plan my journey? Oct 2 - Oct 4... 

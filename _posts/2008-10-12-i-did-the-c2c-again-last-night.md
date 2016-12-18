@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-10-12 16:14:51
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/10/12/i-did-the-c2c-again-last-night/
 published: true
 ---
 ... but people kept on kidnapping me and keeping me prisoner. I'd then have to break free and steal more supplies to finish the ride. All in all, this dream action made it a restless night and very hard to sleep.

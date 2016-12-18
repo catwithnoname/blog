@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-06-15 22:24:48
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/06/15/brainfuckery/
 published: true
 aktt_notify_twitter:
   - 'yes'

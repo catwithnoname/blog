@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-10-16 22:28:54
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/10/16/why-do-birds-suddenly-appear/
 published: true
 ---
 And why do cats have to climb? It's a rule. I know no cats that don't have to climb to the highest shelf in the bookcase. This always has a predictable result.

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-07-07 22:26:59
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/07/07/little-bikeride-lots-of-mud/
 published: true
 aktt_notify_twitter:
   - 'no'

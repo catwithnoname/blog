@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-08-06 13:00:29
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/08/06/customer-service-is-severely-lacking/
 published: true
 aktt_notify_twitter:
   - 'yes'

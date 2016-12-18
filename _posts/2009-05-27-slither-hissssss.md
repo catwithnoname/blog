@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-05-27 22:03:20
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/05/27/slither-hissssss/
 published: true
 aktt_notify_twitter:
   - 'yes'

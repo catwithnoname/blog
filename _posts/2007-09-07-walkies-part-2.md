@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-09-07 22:34:54
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/09/07/walkies-part-2/
 published: true
 dsq_thread_id:
   - "2539785144"

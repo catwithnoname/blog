@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-01-30 23:19:48
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/01/30/more-walkies/
 published: true
 ---
 I am a crazy dog who knows the word "walk" and get excited when I hear it. Or something. Anyway, everyone knows my free time is often my walking time. Last night I was up quite late looking for a walk route, installing printer drivers so I could print out the details. I was trying to do this in windows at about midnight, and the driver thingy from HP was an awful 50 meg installer that took ages to scan my computer. I ended up ctrl+alt+deleting and using task manager to kill it because it wouldn't let me shut down while it was doing what ever it was doing. I hope I haven't damaged my registry or anything. I get the impression it want me to install printing utilities and programs and ink monitors and who knows what other crap. Bah. All I wanted was a nice streamlined file to make my printer go. Once I finally killed the install and booted up opensuse I got my prints out straight away - it only took a minute or so to install the printer on Opensuse. 

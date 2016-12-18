@@ -7,8 +7,6 @@ author: yochannah
 post_date: 2009-01-07 21:22:15
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/01/07/i-want-a-spare-eee-now-and-a-helicopter/
 published: true
 dsq_thread_id:
   - "132624107"

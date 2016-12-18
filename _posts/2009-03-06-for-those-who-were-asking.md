@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-03-06 22:17:46
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/03/06/for-those-who-were-asking/
 published: true
 aktt_notify_twitter:
   - 'no'

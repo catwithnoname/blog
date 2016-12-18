@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-09-08 15:50:13
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/09/08/i-want-stuff/
 published: true
 ---
 <a href="http://www.bushgear.co.uk/acatalog/Camping.html">A cool camping plate set!</a> You'll have to scroll down to see it. The sporks are pretty darn cool too. I think I want a set of the lime green (ya'll must have noticed I like lime green by now...) plus several sporks. Correction... I KNOW I want them. I just spent ages looking at cmaping/hiking/cycling stuff, but nothing calls my name like that set does. 

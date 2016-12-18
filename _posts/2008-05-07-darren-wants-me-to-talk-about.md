@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-05-07 20:17:28
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/05/07/darren-wants-me-to-talk-about/
 published: true
 ---
 oh, nevermind. Anyway, what was I saying before? I was talking about Brave New world. As I said, the plot sucked a wee bit - mostly I considered it irrelevant, which in a book is a bit strange because aren't books mostly about plots? The world fascinated me, and the book gripped me even when I was bored by the plot. Is it horrible to say that the world didn't seem particularly bad, even when it thrived on depriving - perhaps it could even be described as mutilating - embryos before birth, in order to produce a complacent workforce and "happy" society? It's a point to make you think, if nothing else. 

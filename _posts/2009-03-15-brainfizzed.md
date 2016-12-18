@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-03-15 22:22:15
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/03/15/brainfizzed/
 published: true
 aktt_notify_twitter:
   - 'no'

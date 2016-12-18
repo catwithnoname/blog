@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-06-21 20:01:21
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/06/21/epilation/
 published: true
 ---
 when epilating, remember to keep long hair away from the epilator. dude.

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-10-01 21:47:30
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/10/01/its-probably-controversial-to-say/
 published: true
 dsq_thread_id:
   - "313844825"

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-01-15 13:14:09
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/01/15/what-a-morning/
 published: true
 ---
 It's 12:08, I'm finally off on my lunch break at work.... 

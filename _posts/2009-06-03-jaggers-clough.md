@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-06-03 22:18:47
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/06/03/jaggers-clough/
 published: true
 aktt_notify_twitter:
   - 'yes'

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-11-17 14:30:37
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/11/17/im-such-a-nerd/
 published: true
 dsq_thread_id:
   - "145752488"

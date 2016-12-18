@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-08-01 14:24:03
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/08/01/didya-notice-its-august/
 published: true
 ---
 Cos it kinda sneakeded up on me. time just flies sometimes. I've not worked at the hospital for almost a year... or is it a whole year? I don't recall. My CV probably knows. I'm glad that time is behind me cos it involved too much stress. My current job is stress free. Completely.

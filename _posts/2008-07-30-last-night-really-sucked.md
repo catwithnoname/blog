@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-07-30 21:18:22
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/07/30/last-night-really-sucked/
 published: true
 ---
 Went to martial arts class as planned. The warm up was pretty hard, but NOT as hard as plenty of other times. We lay out a large area of mats on the gym floor and normally run around them for 20 minutes or so. (I think 20 minutes.... I don't know because I don't have a timepiece to refer to...) I normally count the laps as a way to pass the time. On the laxest days, Sensei makes us do about 40 laps. On the worst days he's made us do more than 100. He normally varies the pace and running style - sometimes it's a jog, sometimes a sprint, sometimes sideways or backwards looking over your shoulder. 

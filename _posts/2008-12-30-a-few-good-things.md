@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-12-30 14:48:25
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/12/30/a-few-good-things/
 published: true
 ---
 Let's be positive. 

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2009-05-24 20:38:16
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2009/05/24/gardening/
 published: true
 aktt_notify_twitter:
   - 'yes'

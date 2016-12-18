@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-05-09 13:47:56
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/05/09/demon-kitten/
 published: true
 aktt_notify_twitter:
   - 'no'

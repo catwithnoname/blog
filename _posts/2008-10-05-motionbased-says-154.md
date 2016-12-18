@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-10-05 22:26:55
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/10/05/motionbased-says-154/
 published: true
 dsq_thread_id:
   - "855687354"

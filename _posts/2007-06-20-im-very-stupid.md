@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-06-20 11:20:21
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/06/20/im-very-stupid/
 published: true
 ---
 I've known for week and weeks my driving theory test was today. I'd paid for it and had a reminder set up on my phone. I'd told my boss I couldn't work overtime today cos I'd be busy. 

@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-08-24 22:10:48
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/08/24/a-few-links/
 published: true
 dsq_thread_id:
   - "3269749851"

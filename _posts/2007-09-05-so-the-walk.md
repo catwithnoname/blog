@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2007-09-05 22:39:16
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2007/09/05/so-the-walk/
 published: true
 ---
 For starters, it was the most unenjoyable walk I have ever been on. *lol* It's mostly a funny memory now but I got really stressed (and lost......).

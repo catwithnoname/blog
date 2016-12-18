@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2011-03-23 23:29:26
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2011/03/23/expect-further-theme-tweakage/
 published: true
 dsq_thread_id:
   - "261741428"

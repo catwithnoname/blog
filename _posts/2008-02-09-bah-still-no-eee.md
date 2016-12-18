@@ -5,8 +5,6 @@ author: yochannah
 post_date: 2008-02-09 14:26:08
 post_excerpt: ""
 layout: post
-permalink: >
-  http://catwithnoname.com/wordpress/blog/2008/02/09/bah-still-no-eee/
 published: true
 ---
 I dream about Eees. I still have none. People all over the UK seem to be having trouble even with good retailers. I placed my order with play.com a week or two ago, when they SAID in stock...... My course started a week and a half ago, I was sure at I'd have an Eee by then. BAH. I ordered my mouse on extrafast delivery thinking I'd need it soon. I could have done free delivery if I'd known *lol* It is a looooovely wee mouse though, complete with a sturdy looking carry case. It's all lonely  on my desk without an Eee to accompany it. 
